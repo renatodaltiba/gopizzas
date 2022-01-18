@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "vaipizza",
+    "slug": "vaipizza",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "vaipizza"
+}
