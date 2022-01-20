@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831434801932",
+    "project_id": "ignite-rocket-seat",
+    "storage_bucket": "ignite-rocket-seat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831434801932:android:c95c7a69a0d4d3aed73f29",
+        "android_client_info": {
+          "package_name": "com.vaipizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831434801932-s07hmta2p2s49gq621a78mp7samuhlmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaipizza",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "831434801932-rui94j4og06r4d5q9aodsimuisq76hq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTN5JLURzimlJIymAln4VzAsXl79Jwv_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831434801932-rui94j4og06r4d5q9aodsimuisq76hq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
